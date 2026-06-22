@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Maven ###
+.repository/
+*.class
+surefire-reports/
+failsafe-reports/
+jacoco*.exec
+jacoco-report/

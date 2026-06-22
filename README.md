@@ -1,4 +1,5 @@
-# GLXT 项目
+# mob
+springboot3.5和vue3的管理系统模版
 
 前后端分离项目，包含 Vue 3 前端和 Spring Boot 后端。
 

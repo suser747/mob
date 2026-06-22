@@ -1,0 +1,23 @@
+# IDE configuration
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*~
+
+# Editor swap files
+*.swp
+*.swo
