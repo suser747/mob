@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font: 16px system-ui, sans-serif;
+  color: #333;
+  background: #fff;
+}
+
+#app {
+  min-height: 100vh;
+}
